@@ -22,4 +22,4 @@ while numero <= 10:
 print "La suma es " + str(suma)
 ~~~
 
-> Esperamos tener un muy buen dia.
+> Espero ganar el taller.
