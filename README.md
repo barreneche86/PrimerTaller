@@ -5,7 +5,7 @@
 *abcSchool of Computer Sciences, Universiti Sains Malaysia, 11800 Minden, Penang Malaysia* 
 
 ### **Abstract**
- > The knowledge discovery in database (KDD) is alarmed with development of methods and techniques for
+The knowledge discovery in database (KDD) is alarmed with development of methods and techniques for
 making use of data. One of the most important step of the KDD is the data mining. Data mining is the
 process of pattern discovery and extraction where huge amount of data is involved. Both the data mining
 and healthcare industry have emerged some of reliable early detection systems and other various
@@ -15,19 +15,36 @@ paper has consolidated the papers reviewed inline to the disciplines, model, tas
 and evaluation methods are discussed for selected papers and a summary of the finding is presented to
 conclude the paper.
 
- > #### © 2015 Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the scientific
+ > © 2015 Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the scientific
 committee of The Third Information Systems International Conference (ISICO 2015)
-Keywords: Data Mining, Data Mining in Healthcare, Health Informactics; 
+
+
+[http://creativecommons.org/licenses/by-nc-nd/4.0/].
+
+> *Keywords*: Data Mining, Data Mining in Healthcare, Health Informactics; 
+
+
+**1 Introduction**
+
+Across all the fields, data are being collected and accumulated at a vivid pace. There is an urgent need
+for a new generation of computational theories and tools to assist humans in extracting useful information
+(knowledge) from the rapidly growing volumes of digital data. At the core of the process is the
+application of specific data mining methods for pattern discovery and extraction [1]. Among the data
+mining techniques developed in recent years, the data mining methods are including generalization,
+characterization, classification, clustering, association, evolution, pattern matching, data visualization and
+meta-rule guided mining. [2]. As an element of data mining technique research, this paper surveys the 
+
+
+*2.1. Disciplines Involved in Data Mining*
+
+The data mining baseline is grounded by disciplines such as machine learning [4], artificial
+intelligence [5], probability [6] and statistics [7]. The disciplines identified among the papers reviewed
+are summarized in Table 1. Table 1 assets the disciplines mentioned for the papers reviewed. 
 
 
 
 
 
-
-
-
-
-Un avance diferencial en este campo. Y es que los datos de *máquina a máquina (M2M) que se generan*, tienen una amplia gama de usos, pero comúnmente se ven como una forma de **determinar ‘la salud’ y el estado de las cosas**, ya sean inanimadas o no (como por ejemplo, la toma de datos remotos del funcionamiento de un marcapasos). Se prevé que Internet de las Cosas (IoT) pronto excederá los 20.000 millones de dispositivos en el perímetro de las redes tradicionales.
 
 ### Tabla
 
