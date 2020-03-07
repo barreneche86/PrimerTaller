@@ -44,21 +44,13 @@ are summarized in Table 1. Table 1 assets the disciplines mentioned for the pape
 > Table 1. The different disciplines in the papers reviewed 
 
 
-alumno | nota | asistencia
+Discipline | count | asistencia
 --- | --- | ---
-juan|4.3|1
-luis|3.5|0
-ana|4.0|1
-pedro|2.2|1
+Machinelearning|40|1
+Artificialintelligence|5|0
+Statiscal|3|1
+Probability|2|1
 
-
-
-Discipline | count 
---- | --- | ---
-Machinelearning|40|
-Artificialintelligence|5|
-Statiscal|3|
-Probability|2|
 
 
 > Espero ganar el taller.
