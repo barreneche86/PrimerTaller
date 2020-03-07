@@ -41,11 +41,6 @@ The data mining baseline is grounded by disciplines such as machine learning [4]
 intelligence [5], probability [6] and statistics [7]. The disciplines identified among the papers reviewed
 are summarized in Table 1. Table 1 assets the disciplines mentioned for the papers reviewed. 
 
-
-
-
-
-
 ### Tabla
 
 Discipline | Count
