@@ -23,3 +23,7 @@ print "La suma es " + str(suma)
 ~~~
 
 > Espero ganar el taller.
+---
+
+![](imagen.jpg)
+
