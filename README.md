@@ -43,7 +43,7 @@ are summarized in Table 1. Table 1 assets the disciplines mentioned for the pape
 
 ### Tabla
 
-Discipline | Count
+Discipline|Count
 --- | --- | ---
 Machine learning|40
 Artificial intelligence|5
