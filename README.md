@@ -14,7 +14,8 @@ reviewed the various paper involved in this field in terms of method, algorithms
 paper has consolidated the papers reviewed inline to the disciplines, model, tasks and methods. Results
 and evaluation methods are discussed for selected papers and a summary of the finding is presented to
 conclude the paper.
-© 2015 Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the scientific
+
+ > #### © 2015 Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the scientific
 committee of The Third Information Systems International Conference (ISICO 2015)
 Keywords: Data Mining, Data Mining in Healthcare, Health Informactics; 
 
