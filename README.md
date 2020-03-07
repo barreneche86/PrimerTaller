@@ -5,8 +5,7 @@
 *abcSchool of Computer Sciences, Universiti Sains Malaysia, 11800 Minden, Penang Malaysia* 
 
 ### **Abstract**
-
-####The knowledge discovery in database (KDD) is alarmed with development of methods and techniques for
+ > The knowledge discovery in database (KDD) is alarmed with development of methods and techniques for
 making use of data. One of the most important step of the KDD is the data mining. Data mining is the
 process of pattern discovery and extraction where huge amount of data is involved. Both the data mining
 and healthcare industry have emerged some of reliable early detection systems and other various
